@@ -1,4 +1,4 @@
-# -ai-quiz-generator
+# ai-quiz-generator
 A simple Python AI quiz generator for students
 # AI Study Quiz Generator
 
